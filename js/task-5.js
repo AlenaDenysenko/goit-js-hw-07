@@ -14,3 +14,4 @@ function getRandomHexColor() {
     body.style.backgroundColor = randomColor;
     colorSpan.textContent = randomColor;
   });
+
